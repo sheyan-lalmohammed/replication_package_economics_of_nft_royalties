@@ -1,7 +1,6 @@
 # Replication Package
 
 **The Economics of Optional Royalties: Platform Competition, Enforcement, and Routing in NFT Markets**
-Sheyan Lalmohammed — Honors Thesis in Economics, University of Pennsylvania
 
 This package reproduces every empirical result in Section 5 ("Empirical Model") and
 Appendix B ("Empirical Results") of the paper, starting from the original Dune Analytics
