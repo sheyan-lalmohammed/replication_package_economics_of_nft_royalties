@@ -1,0 +1,72 @@
+scenario,royalty_group,kappa_group,mint_group,n,mean_delta_share_B,mean_delta_share_gap,mean_delta_switch
+blur_matches_opensea_enforcement,low,Blur stronger,Blur mint,44,0.0,0.0,0.0
+blur_matches_opensea_enforcement,low,Blur stronger,Blur nonmint,0,,,
+blur_matches_opensea_enforcement,low,OpenSea stronger,Blur mint,34,0.03695254653919968,0.07390509307839936,-0.03695254653919968
+blur_matches_opensea_enforcement,low,OpenSea stronger,Blur nonmint,3,0.014892576808669214,0.02978515361733843,0.014892576808669214
+blur_matches_opensea_enforcement,low,Parity,Blur mint,88,0.0010387651532355552,0.0020775303064711104,-0.0010387651532355552
+blur_matches_opensea_enforcement,low,Parity,Blur nonmint,9,0.0019338149258520954,0.0038676298517041907,0.0019338149258520954
+blur_matches_opensea_enforcement,medium,Blur stronger,Blur mint,819,2.1689338698415757e-18,4.337867739683151e-18,-2.1689338698415757e-18
+blur_matches_opensea_enforcement,medium,Blur stronger,Blur nonmint,96,1.734723475976807e-18,3.469446951953614e-18,1.734723475976807e-18
+blur_matches_opensea_enforcement,medium,OpenSea stronger,Blur mint,1429,-0.002840349824569145,-0.00568069964913829,0.002840349824569145
+blur_matches_opensea_enforcement,medium,OpenSea stronger,Blur nonmint,306,-0.015458922320479688,-0.030917844640959376,-0.015458922320479688
+blur_matches_opensea_enforcement,medium,Parity,Blur mint,2852,-0.0004379120082172684,-0.0008758240164345368,0.0004379120082172684
+blur_matches_opensea_enforcement,medium,Parity,Blur nonmint,609,-0.0006954475773392691,-0.0013908951546785385,-0.0006954475773392691
+blur_matches_opensea_enforcement,high,Blur stronger,Blur mint,112,1.982541115402065e-18,3.96508223080413e-18,-1.982541115402065e-18
+blur_matches_opensea_enforcement,high,Blur stronger,Blur nonmint,15,0.0,0.0,0.0
+blur_matches_opensea_enforcement,high,OpenSea stronger,Blur mint,221,-0.031099047327412768,-0.062198094654825536,0.031099047327412768
+blur_matches_opensea_enforcement,high,OpenSea stronger,Blur nonmint,64,-0.05220744684501851,-0.10441489369003702,-0.05220744684501851
+blur_matches_opensea_enforcement,high,Parity,Blur mint,520,-0.0018885551080470642,-0.0037771102160941285,0.0018885551080470642
+blur_matches_opensea_enforcement,high,Parity,Blur nonmint,103,-0.004937470191853344,-0.009874940383706688,-0.004937470191853344
+full_enforcement_both,low,Blur stronger,Blur mint,44,-0.008429792360301879,-0.016859584720603758,0.008429792360301879
+full_enforcement_both,low,Blur stronger,Blur nonmint,0,,,
+full_enforcement_both,low,OpenSea stronger,Blur mint,34,0.03695254653919968,0.07390509307839936,-0.03695254653919968
+full_enforcement_both,low,OpenSea stronger,Blur nonmint,3,0.014892576808669214,0.02978515361733843,0.014892576808669214
+full_enforcement_both,low,Parity,Blur mint,88,-8.782602547546814e-05,-0.00017565205095093628,8.782602547546814e-05
+full_enforcement_both,low,Parity,Blur nonmint,9,0.0013463777526140487,0.0026927555052280974,0.0013463777526140487
+full_enforcement_both,medium,Blur stronger,Blur mint,819,0.015588043916319074,0.031176087832638148,-0.015588043916319074
+full_enforcement_both,medium,Blur stronger,Blur nonmint,96,0.018928614753032622,0.037857229506065244,0.018928614753032622
+full_enforcement_both,medium,OpenSea stronger,Blur mint,1429,-0.002840349824569146,-0.005680699649138292,0.002840349824569146
+full_enforcement_both,medium,OpenSea stronger,Blur nonmint,306,-0.015458922320479691,-0.030917844640959383,-0.015458922320479691
+full_enforcement_both,medium,Parity,Blur mint,2852,0.0004263216436542725,0.000852643287308545,-0.0004263216436542725
+full_enforcement_both,medium,Parity,Blur nonmint,609,0.00017506178092007544,0.0003501235618401509,0.00017506178092007544
+full_enforcement_both,high,Blur stronger,Blur mint,112,0.04520251567788068,0.09040503135576136,-0.04520251567788068
+full_enforcement_both,high,Blur stronger,Blur nonmint,15,0.0515240223226059,0.1030480446452118,0.0515240223226059
+full_enforcement_both,high,OpenSea stronger,Blur mint,221,-0.031099047327412768,-0.062198094654825536,0.031099047327412768
+full_enforcement_both,high,OpenSea stronger,Blur nonmint,64,-0.05220744684501852,-0.10441489369003704,-0.05220744684501852
+full_enforcement_both,high,Parity,Blur mint,520,0.0009599119792613176,0.0019198239585226352,-0.0009599119792613176
+full_enforcement_both,high,Parity,Blur nonmint,103,-0.002374627970026022,-0.004749255940052044,-0.002374627970026022
+opensea_matches_blur_enforcement,low,Blur stronger,Blur mint,44,-0.008429792360301879,-0.016859584720603758,0.008429792360301879
+opensea_matches_blur_enforcement,low,Blur stronger,Blur nonmint,0,,,
+opensea_matches_blur_enforcement,low,OpenSea stronger,Blur mint,34,-3.2653618371328133e-18,-6.530723674265627e-18,3.2653618371328133e-18
+opensea_matches_blur_enforcement,low,OpenSea stronger,Blur nonmint,3,0.0,0.0,0.0
+opensea_matches_blur_enforcement,low,Parity,Blur mint,88,-0.001126591178711022,-0.002253182357422044,0.001126591178711022
+opensea_matches_blur_enforcement,low,Parity,Blur nonmint,9,-0.000587437173238022,-0.001174874346476044,-0.000587437173238022
+opensea_matches_blur_enforcement,medium,Blur stronger,Blur mint,819,0.01558804391631907,0.03117608783263814,-0.01558804391631907
+opensea_matches_blur_enforcement,medium,Blur stronger,Blur nonmint,96,0.01892861475303262,0.03785722950606524,0.01892861475303262
+opensea_matches_blur_enforcement,medium,OpenSea stronger,Blur mint,1429,-2.486153729041638e-18,-4.972307458083276e-18,2.486153729041638e-18
+opensea_matches_blur_enforcement,medium,OpenSea stronger,Blur nonmint,306,-2.7211348642773444e-18,-5.442269728554689e-18,-2.7211348642773444e-18
+opensea_matches_blur_enforcement,medium,Parity,Blur mint,2852,0.0008642336518715433,0.0017284673037430867,-0.0008642336518715433
+opensea_matches_blur_enforcement,medium,Parity,Blur nonmint,609,0.0008705093582593458,0.0017410187165186916,0.0008705093582593458
+opensea_matches_blur_enforcement,high,Blur stronger,Blur mint,112,0.04520251567788068,0.09040503135576136,-0.04520251567788068
+opensea_matches_blur_enforcement,high,Blur stronger,Blur nonmint,15,0.0515240223226059,0.1030480446452118,0.0515240223226059
+opensea_matches_blur_enforcement,high,OpenSea stronger,Blur mint,221,0.0,0.0,0.0
+opensea_matches_blur_enforcement,high,OpenSea stronger,Blur nonmint,64,-2.6020852139652106e-18,-5.204170427930421e-18,-2.6020852139652106e-18
+opensea_matches_blur_enforcement,high,Parity,Blur mint,520,0.0028484670873083853,0.0056969341746167705,-0.0028484670873083853
+opensea_matches_blur_enforcement,high,Parity,Blur nonmint,103,0.0025628422218273122,0.0051256844436546245,0.0025628422218273122
+zero_enforcement_preference,low,Blur stronger,Blur mint,44,-0.012413326496727035,-0.02482665299345407,0.012413326496727035
+zero_enforcement_preference,low,OpenSea stronger,Blur mint,34,0.04798450058359685,0.0959690011671937,-0.04798450058359685
+zero_enforcement_preference,low,OpenSea stronger,Blur nonmint,3,0.030793082368480995,0.06158616473696199,0.030793082368480995
+zero_enforcement_preference,low,Parity,Blur mint,88,8.133883618731534e-05,0.00016267767237463068,-8.133883618731534e-05
+zero_enforcement_preference,low,Parity,Blur nonmint,9,0.002914655785918146,0.005829311571836292,0.002914655785918146
+zero_enforcement_preference,medium,Blur stronger,Blur mint,819,-0.020807610815959134,-0.04161522163191827,0.020807610815959138
+zero_enforcement_preference,medium,Blur stronger,Blur nonmint,96,-0.02888807742938213,-0.05777615485876426,-0.02888807742938213
+zero_enforcement_preference,medium,OpenSea stronger,Blur mint,1429,0.03642980688094741,0.07285961376189481,-0.03642980688094741
+zero_enforcement_preference,medium,OpenSea stronger,Blur nonmint,306,0.047228154466063876,0.09445630893212775,0.047228154466063876
+zero_enforcement_preference,medium,Parity,Blur mint,2852,-0.0005851776974845905,-0.001170355394969181,0.0005851776974845905
+zero_enforcement_preference,medium,Parity,Blur nonmint,609,-0.00022480406894758137,-0.00044960813789516273,-0.00022480406894758137
+zero_enforcement_preference,high,Blur stronger,Blur mint,112,-0.025684956559009976,-0.05136991311801995,0.02568495655900998
+zero_enforcement_preference,high,Blur stronger,Blur nonmint,15,-0.02981458380754368,-0.05962916761508736,-0.02981458380754368
+zero_enforcement_preference,high,OpenSea stronger,Blur mint,221,0.03055504572779459,0.06111009145558918,-0.03055504572779459
+zero_enforcement_preference,high,OpenSea stronger,Blur nonmint,64,0.04207104035081303,0.08414208070162606,0.04207104035081303
+zero_enforcement_preference,high,Parity,Blur mint,520,-0.0005530334299737946,-0.0011060668599475892,0.0005530334299737946
+zero_enforcement_preference,high,Parity,Blur nonmint,103,0.0016007162950507452,0.0032014325901014904,0.0016007162950507452

@@ -1,0 +1,9 @@
+scenario,price_group,mint_group,tau_parity_group,n,mean_delta_share_B,mean_delta_share_gap,mean_delta_switch
+remove_switching_frictions,high,Blur mint,non-parity,1805,-0.14248189467054395,-0.2849637893410879,0.14248189467054395
+remove_switching_frictions,high,Blur mint,tau parity,1505,-0.15148981759116625,-0.3029796351823325,0.15148981759116625
+remove_switching_frictions,high,Blur nonmint,non-parity,200,0.1988953560972853,0.3977907121945706,0.1988953560972853
+remove_switching_frictions,high,Blur nonmint,tau parity,152,0.2133570750550539,0.4267141501101078,0.2133570750550539
+remove_switching_frictions,low,Blur mint,non-parity,1730,-0.008882002978777713,-0.017764005957555427,0.008882002978777713
+remove_switching_frictions,low,Blur mint,tau parity,1079,-0.008456047516228356,-0.016912095032456713,0.008456047516228356
+remove_switching_frictions,low,Blur nonmint,non-parity,509,0.004575240851743138,0.009150481703486276,0.004575240851743138
+remove_switching_frictions,low,Blur nonmint,tau parity,344,0.00704024127308968,0.01408048254617936,0.00704024127308968

@@ -1,0 +1,8 @@
+{
+  "input_csv": "MSM_data_clean_week2023-04-03_medium_paired.csv",
+  "bootstrap_unit": "market",
+  "n_boot_requested": 100,
+  "n_boot_successful": 100,
+  "seed": 123,
+  "estimator_match": "Exact bootstrap wrapper for uploaded estimate_paper_match_v2.py"
+}
