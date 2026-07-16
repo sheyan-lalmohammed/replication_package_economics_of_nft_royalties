@@ -21,11 +21,6 @@ replication_package/
 └── results/                      <- pre-generated outputs (tables & figures)
 ```
 
-All numbers, tables, and figures in the paper come from the **`v2`** model specification.
-Only the `v2` pipeline is included here. (Alternative/superseded specifications that were
-explored during the project — `v2p`, `v3`, `v3b`, `v4`, `v5`, etc. — are **not** part of
-the paper and are **not** included; see Section 6.)
-
 ---
 
 ## 2. Software environment
