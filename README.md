@@ -1,6 +1,4 @@
-# Replication Package
-
-**The Economics of Optional Royalties: Platform Competition, Enforcement, and Routing in NFT Markets**
+# Replication Package: **The Economics of Optional Royalties: Platform Competition, Enforcement, and Routing in NFT Markets**
 
 This package reproduces every empirical result in Section 5 ("Empirical Model") and
 Appendix B ("Empirical Results") of the paper, starting from the original Dune Analytics
